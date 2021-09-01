@@ -4,7 +4,7 @@
 
 ## I am focusing on Java!!
 
-- 🔭 I’m currently learning Spring Boot and Angular 🤣
+- 🔭 I’m currently learning Spring Boot and Angular
 - 👯 I’m looking to learn more about fullstack development
 - 🥅 2021 Goals: Get a Junior job as a developer
 
