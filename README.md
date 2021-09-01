@@ -9,14 +9,6 @@
 - 🥅 2021 Goals: Get a Junior job as a developer
 
 
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/lais-ziegler-4a4880101/" />][linkedin]
-
-
-<br />
-
 ### Languages and Tools:
 
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
