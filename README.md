@@ -11,17 +11,18 @@
 
 ### Languages and Tools:
 
+<div style="display: inline_block"><br>
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Milton-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="laiszig's GitHu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg">
-
+</div>
 ---
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laiszig&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
