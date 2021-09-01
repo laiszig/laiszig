@@ -10,7 +10,6 @@
 
 
 ### Languages and Tools:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +22,8 @@
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain.svg">
 </div>
+
+
 
 <div>
   <a href="https://github.com/laiszig">
