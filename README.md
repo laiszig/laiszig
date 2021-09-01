@@ -38,8 +38,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img height= "150em" src="https://github-readme-stats.codestackr.vercel.app/api?username=laiszig&show_icons=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=laiszig&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiszig&theme=blue-green&layout=compact&langs_count=20"/>                      
+                  
 
 
 </details>
