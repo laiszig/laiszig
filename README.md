@@ -33,15 +33,12 @@
 <br />
 <br />
 
----
-
-
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=laiszig&show_icons=true&hide_border=true" />
+  <img height= "150em" src="https://github-readme-stats.codestackr.vercel.app/api?username=laiszig&show_icons=true&hide_border=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiszig&theme=blue-green&layout=compact&langs_count=20"/>                      
 
 
