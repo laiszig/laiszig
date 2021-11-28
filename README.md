@@ -1,12 +1,12 @@
 ### Hi there, I'm Laís Ziegler - Dev in traning... 👋
-
+### I work as a Software Engineer!
 
 
 ## I am focusing on Java!!
 
-- 🔭 I’m currently studying Spring Boot, JPA and OOP
-- 👯 I’m looking to learn more about microservices
-- 🥅 2021 Goals: Get a Junior job as a developer
+- 🔭 I’m currently improving my Spring Boot, JPA and OOP skills
+- 🧠 I’m looking to learn more about microservices
+- 🥅 2021 Goals: Get a Junior job as a developer (✅)
 
 
 ### Languages and Tools:
