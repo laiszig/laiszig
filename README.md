@@ -1,4 +1,4 @@
-### Hi there, I'm Laís Ziegler - Dev in traning... 👋
+### Hi there, I'm Laís Ziegler - Dev in training... 👋
 ### I work as a Software Engineer!
 
 
