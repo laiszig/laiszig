@@ -4,9 +4,10 @@
 
 ## I am focusing on Java!!
 
-- 🔭 I’m currently improving my Spring Boot, JPA and OOP skills
-- 🧠 I’m looking to learn more about microservices
+- 🔭 I’m currently improving my Spring Boot, Angular and Oracle DB skills;
+- 🧠 I’m looking to become a full stack developer
 - 🥅 2021 Goals: Get a Junior job as a developer (✅)
+- 🥅 2022 Goals: Graduate and get an Oracle certification (  )
 
 
 ### Languages and Tools:
