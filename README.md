@@ -8,6 +8,7 @@
 - 🧠 I’m looking to become a full stack developer
 - 🥅 2021 Goals: Get a Junior job as a developer (✅)
 - 🥅 2022 Goals: Graduate (✅) and get a certification (  )
+- 🥅 2023 Goals: Java SE 8 Programmer I 1Z0-808 (  )
 
 
 ### Languages and Tools:
