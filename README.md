@@ -12,7 +12,7 @@
 - 🥅 2024 Goals: Post-Grad in Java Architecture and Development (  )
 
 
-###⚡Technologies:
+### ⚡Technologies:
 <div style="display: inline_block"><br>
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="laiszig's GitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
