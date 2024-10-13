@@ -11,10 +11,10 @@
   
 - 🥅 2021 Goals: Get a Junior job as a developer (✅)  
 - 🥅 2022 Goals: Graduate (✅) and get a certification (✅)
+- 🥅 2023 Goals: Java Certified Foundations Associate 1Z0-811 (✅)
 </details>
 
-- 🥅 2023 Goals: Java Certified Foundations Associate 1Z0-811 (✅)
-- 🥅 2024 Goals: Master's Machine Learning credit (  ) and get a certification (✅)
+- 🥅 2024 Goals: Master's Machine Learning credit (  ) and GenAI certification (✅)
 - 🥅 2025 Goals: Start Master's Degree in Computer Science (  )
 
 ### ⚡Technologies:
