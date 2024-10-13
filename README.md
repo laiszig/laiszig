@@ -38,7 +38,7 @@
 </div>
 
 ### 🏅Certifications:
-[![Static Badge](https://img.shields.io/badge/Oracle-1Z0_811-red.svg?)]()
+[![Static Badge](https://img.shields.io/badge/Oracle-1Z0--811-red.svg?)]()
 [![Static Badge](https://img.shields.io/badge/Dell_Technologies-GenAI-blue.svg?)]()
 
 [linkedin]: https://www.linkedin.com/in/lais-ziegler-4a4880101/
