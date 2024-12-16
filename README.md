@@ -14,7 +14,7 @@
 - 🥅 2023 Goals: Java Certified Foundations Associate 1Z0-811 (✅)
 </details>
 
-- 🥅 2024 Goals: Master's Machine Learning credit (  ) and GenAI certification (✅)
+- 🥅 2024 Goals: Master's Machine Learning credit (✅) and GenAI certification (✅)
 - 🥅 2025 Goals: Start Master's Degree in Computer Science (  )
 
 ### ⚡Technologies:
