@@ -3,8 +3,8 @@
 
 
 ## I am focusing on Java!!
-- 🔭 I’m currently improving my Spring Boot, Machine Learning and Software Engineering skills
-- 🧠 I’m looking to become a full stack developer
+- 🔭 I’m currently improving my Spring Boot and Software Engineering skills
+- 🧠 I’m looking to become a Backend Developer specialized in Security
 
 <details>
   <summary>Previous Goals</summary>
