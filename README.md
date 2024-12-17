@@ -15,7 +15,7 @@
 </details>
 
 - 🥅 2024 Goals: Master's Machine Learning credit (✅) and GenAI certification (✅)
-- 🥅 2025 Goals: Start Master's Degree in Computer Science (  )
+- 🥅 2025 Goals: Master's Degree in Computer Science - Year 1/2 ( _ ), Spring Certified Professional ( _ ) and Kubernetes KCNA Certification ( _ )
 
 ### ⚡Technologies:
 <div style="display: inline_block"><br>
