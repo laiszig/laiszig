@@ -1,10 +1,9 @@
-### Hi there, I'm Laís Ziegler - Dev in training... 👋
-### I work as a Software Engineer!
+### Hi there, I'm Laís Ziegler - Dev in training... 👋  
+### I work as a Platform Engineer!
 
-
-## I am focusing on Java!!
-- 🔭 I’m currently improving my Spring Boot and Software Engineering skills
-- 🧠 I’m looking to become a Backend Developer specialized in Security
+## I am focusing on Go!  
+- 🔭 I’m currently improving my skills with Cloud-Native Tools and configuration
+- 🧠 I’m looking to become a Platform Engineer specialized in Security  
 
 <details>
   <summary>Previous Goals</summary>
